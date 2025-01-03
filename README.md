@@ -63,7 +63,7 @@ Después de abrir el proyecto en el entorno de desarrollo de preferencia y ver e
 
 ## 💻 Tecnologías utilizadas
 Las tecnologías utilizadas en el desarrollo del proyecto fueron las siguientes:
-1.	Lenguaje de programación Java 8.
+1.	Lenguaje de programación Java.
 2.	JDK 17
 3.	Herramienta de pruebas Insomnia.
 4.	Maven version 4.
