@@ -69,7 +69,10 @@ Las tecnologías utilizadas en el desarrollo del proyecto fueron las siguientes:
 4.	Maven version 4.
 5.	Spring Boot version 3.
 6.	MySQL Workbench 8.0 CE.
-7.	Entorno de desarrollo Intellij IDEA Community Edition 2024.
+7.	Hibernate
+8.	Flyway
+9.	Lombok
+10.	Entorno de desarrollo Intellij IDEA Community Edition 2024.
 
 ## 🧑‍🦱 Autor
 [Daniel Gaviria](https://github.com/danielobiw)
